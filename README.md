@@ -17,8 +17,8 @@ Right now, I’m learning:
 ## 🧠 What I'm About
 - 🌱 Building side projects to level up
 - 🎮 Inspired by game-like experiences for web apps
-- 🔐 Learning more about security & ethical hacking
-- 💡 I like reverse-engineering websites just to learn the tricks
+- 🕵️‍♂️ Reverse-engineering cool websites just to figure out how they did that thing 😅
+- 💡 I like breaking down designs, effects, and interactions to rebuild them my way
 
 ---
 
@@ -37,7 +37,7 @@ Right now, I’m learning:
 
 ## 🔗 Connect With Me
 
-- 💬 Twitter: [@Emma](https://x.com/e_gold3))
+- 💬 Twitter: [@Emma](https://x.com/e_gold3)
 - 💼 LinkedIn: [Emmanuel](https://www.linkedin.com/in/soyooye-emmanuel-5b8769274/)
 - 💻 Projects: [GitHub Repos](https://github.com/Emmagold01?tab=repositories)
 
