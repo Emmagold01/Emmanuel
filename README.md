@@ -38,7 +38,7 @@ Right now, I’m learning:
 ## 🔗 Connect With Me
 
 - 💬 Twitter: [@Emma](https://x.com/e_gold3))
-- 💼 LinkedIn: [linkedin.com/in/emmagold01]((https://www.linkedin.com/in/soyooye-emmanuel-5b8769274/))
+- 💼 LinkedIn: [Emmanuel](https://www.linkedin.com/in/soyooye-emmanuel-5b8769274/)
 - 💻 Projects: [GitHub Repos](https://github.com/Emmagold01?tab=repositories)
 
 ---
